@@ -17,7 +17,6 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | Clera | [Senior Solutions Engineer](https://jobs.ashbyhq.com/clera/b73125c0-8c1d-4b51-b696-c95ec9c1c3ca) | Chicago (remote) | 2026-10-18 |
 | Wonderschool | [Forward Deployed Engineer – Applied AI](https://job-boards.greenhouse.io/wonderschool/jobs/8036581003) | Gallup, New Mexico, United States; Michigan, United States +3 | 2026-10-17 |
 | Justworks | [Software Engineer, Solutions Engineering](https://boards.greenhouse.io/justworks/jobs/8286381?gh_jid=8286381) | New York, New York | 2026-10-16 |
-| Justworks | [Senior Software Engineer, Solutions Engineering](https://boards.greenhouse.io/justworks/jobs/8286388?gh_jid=8286388) | New York, New York | 2026-10-16 |
 
 ## AI and machine learning
 
@@ -35,6 +34,7 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 
 | Company | Role | Where | Posted |
 | --- | --- | --- | --- |
+| Cerebras | [Infrastructure Systems Engineer – Linux, Storage & Automation](https://jobs.ashbyhq.com/cerebras/dbb21f89-1e93-4142-99da-8fe7c5d62e8b) | Sunnyvale, CA | 2026-10-19 |
 | Notion | [Software Engineer, Developer Platform](https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8) | San Francisco, California; New York, New York | 2026-10-19 |
 | Mozilla | [Senior Software Engineer, Cloud Engineering](https://job-boards.greenhouse.io/mozilla/jobs/8292350) | Remote US | 2026-10-19 |
 | Tenet3 | [Cloud/DevOps Engineer - Hybrid](https://job-boards.greenhouse.io/tenet3/jobs/8894917002) | Dayton, Ohio | 2026-10-19 |
@@ -45,7 +45,6 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | Faraday Future | [SDK Platform Engineer](https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003) | El Segundo, California, United States | 2026-10-17 |
 | Accenture Federal Services | [Site Reliability Engineer (DevOps)](https://boards.greenhouse.io/accenturefederalservices/jobs/4719515006?gh_jid=4719515006) | Reston, VA | 2026-10-16 |
 | H1 | [Sr. AWS Cloud Infrastructure Engineer](https://jobs.lever.co/h1/1722cd81-8e62-4eac-b971-b698357ccb9e) | New York | 2026-10-16 |
-| Prolaio | [Sr. Data Engineer](https://job-boards.greenhouse.io/prolaio/jobs/5448362008) | Chicago, IL | 2026-10-16 |
 
 ## Frontend and mobile
 
@@ -68,6 +67,8 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | Anduril Industries | [Senior Software Engineer, Actuation and Control Systems](https://boards.greenhouse.io/andurilindustries/jobs/5267908007?gh_jid=5267908007) | Costa Mesa, California, United States | 2026-10-19 |
 | Anduril Industries | [Software Engineer, Imaging](https://boards.greenhouse.io/andurilindustries/jobs/5268307007?gh_jid=5268307007) | Waltham, Massachusetts, United States | 2026-10-19 |
 | Pogo Technologies, Inc. | [Full Stack Engineer](https://jobs.ashbyhq.com/joinpogo/bbed5bc7-2f72-4d0b-9529-e22bd046dc5d) | United States/Canada (remote) | 2026-10-19 |
+| Field AI | [Robotics Software Engineer, Multimodal Inspection](https://jobs.lever.co/field-ai/0a93ca47-2272-465f-8b33-110fbd313e1e) | Irvine, CA | 2026-10-19 |
+| Field AI | [Robotics Software Engineer, Mission Evaluation & Fine-Tuning](https://jobs.lever.co/field-ai/abf562d8-5357-4ba5-81e4-d606cc9043c1) | Irvine, CA | 2026-10-19 |
 | Anthropic | [Software Engineer, Memory & Search](https://job-boards.greenhouse.io/anthropic/jobs/5456453008) | New York City, NY; Seattle, WA +2 (remote) | 2026-10-19 |
 | ATOMS | [Back-End Engineer - Fleet Management](https://job-boards.greenhouse.io/cssmerge/jobs/8899480002) | San Francisco, CA | 2026-10-18 |
 | ATOMS | [Full-Stack Engineer - Fleet Management](https://job-boards.greenhouse.io/cssmerge/jobs/8899478002) | San Francisco, CA | 2026-10-18 |
@@ -78,7 +79,6 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | Applied Intuition | [Full-Stack Software Engineer, People Intelligence](https://jobs.ashbyhq.com/applied/6b3d1aa5-a987-4350-9b79-b14c6e297cdf) | Sunnyvale | 2026-10-17 |
 | OpenAI | [Software Engineer, Full Stack — Dots](https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445) | New York City | 2026-10-16 |
 | Decagon | [Senior Software Engineer, Product](https://jobs.ashbyhq.com/decagon/cfc21b6c-75ed-4b01-925a-6636778ebf04) | New York City | 2026-10-16 |
-| 1-800 Contacts | [Full Stack Engineer (Python)](https://job-boards.greenhouse.io/1800contacts/jobs/8289484) | Draper, UT (Hybrid) | 2026-10-16 |
 
 ---
 
