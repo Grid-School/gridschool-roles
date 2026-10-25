@@ -1,6 +1,6 @@
 # Engineering roles posted in the last few days
 
-78 US software engineering roles, posted in the last 3 days, from companies' own job boards. Updated October 24, 2026.
+68 US software engineering roles, posted in the last 3 days, from companies' own job boards. Updated October 25, 2026.
 
 Every link goes to the company's own posting. We don't sit in between. The list is gathered automatically from public job boards, so check the posting before you apply; some will have closed.
 
@@ -20,34 +20,29 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | Sitreps | [Forward Deployed Software Engineer](https://job-boards.greenhouse.io/sitrepsllc/jobs/4465108009) | Remote in the US | 2026-10-23 |
 | Ramp | [Software Engineer, Forward Deployed](https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8) | New York, NY (HQ); San Francisco, CA | 2026-10-22 |
 | Verkada | [Channel Solutions Engineer](https://job-boards.greenhouse.io/verkada/jobs/5272647007) | Atlanta, GA United States | 2026-10-22 |
-| Verkada | [Channel Solutions Engineer](https://job-boards.greenhouse.io/verkada/jobs/5271745007) | Seattle, WA United States | 2026-10-21 |
-| Grafana Labs | [Senior Solutions Engineer, Growth / Mid Atlantic or Southeast / Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6230151004) | United States (Remote) | 2026-10-21 |
-| Accenture Federal Services | [Senior Cybersecurity Solutions Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4723828006?gh_jid=4723828006) | Tampa, FL | 2026-10-21 |
-| Eliza | [Senior Forward Deployed Engineer, Cyber](https://jobs.ashbyhq.com/eliza/5ca4de88-726b-4561-b97a-01a583a47ec1) | United States (remote) | 2026-10-21 |
 
 ## AI and machine learning
 
 | Company | Role | Where | Posted |
 | --- | --- | --- | --- |
+| Anduril Industries | [Senior Software Engineer- Machine Learning](https://boards.greenhouse.io/andurilindustries/jobs/5274648007?gh_jid=5274648007) | Broomfield, Colorado, United States | 2026-10-24 |
 | Fuel Cycle | [Associate AI Engineer](https://jobs.ashbyhq.com/fuel-cycle/0d24c1b6-e79b-4880-890f-a8ddb53b6d0d) | Los Angeles Office | 2026-10-23 |
 | Juniper Square | [Senior Applied AI Engineer I](https://jobs.ashbyhq.com/junipersquare/6ce970a4-5400-47b3-aa2a-c6f5e8dac35e) | USA (remote) | 2026-10-23 |
+| Clera | [Mid-Level AI Engineer](https://jobs.ashbyhq.com/clera/d8366414-d411-4b2d-8f6d-fe37b37bbddc) | San Francisco | 2026-10-23 |
 | Clera | [Founding Applied AI Engineer](https://jobs.ashbyhq.com/clera/f8dd9e7d-ec81-402f-91a4-34ec5d804175) | San Francisco | 2026-10-23 |
-| Clera | [Applied AI Engineer](https://jobs.ashbyhq.com/clera/5e268976-cfd4-4518-af69-9f7210872667) | San Francisco | 2026-10-23 |
 | Applied Underwriters | [AI Engineer - Data Science](https://jobs.lever.co/auw/6f317af6-4362-4dea-accc-e86ec1d102a5) | New York, NY | 2026-10-23 |
 | Lucid Motors | [Machine Learning Engineer](https://lucidmotors.com/careers/search/5254390007?gh_jid=5254390007) | Southfield, MI | 2026-10-23 |
 | Snowflake | [Senior AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/21c400dc-12fc-4962-813b-3f19becfbefb) | US-TX-Remote | 2026-10-23 |
+| Anduril Industries | [Systems Engineer - Machine Learning](https://boards.greenhouse.io/andurilindustries/jobs/5272037007?gh_jid=5272037007) | Colorado Springs, Colorado, United States; Huntsville, Alabama, United States | 2026-10-23 |
 | Commure | [Senior Software Engineer, Applied AI (RCM)](https://jobs.ashbyhq.com/Commure/ad72cee4-6a9e-47ef-a959-91bb7847c263) | Mountain View, CA; Los Angeles, CA +2 | 2026-10-22 |
-| Cohere | [Senior Software Engineer, Agent Infrastructure](https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b) | United States (remote) | 2026-10-22 |
-| Sierra | [Software Engineer, Agent Builder](https://jobs.ashbyhq.com/Sierra/200df475-2175-45ce-9510-7d04afabd08d) | San Francisco, CA | 2026-10-22 |
-| Sierra | [Software Engineer, Agent Runtime](https://jobs.ashbyhq.com/Sierra/0cb4da3e-3c67-4f14-a84d-956042669275) | San Francisco, CA | 2026-10-22 |
-| Verkada | [Senior Software Engineer, Developer AI](https://job-boards.greenhouse.io/verkada/jobs/5270787007) | San Mateo, CA United States | 2026-10-21 |
-| Bandwidth | [Applied AI Engineer](https://job-boards.greenhouse.io/bandwidth/jobs/8285488) | Raleigh, NC | 2026-10-21 |
-| Latitude AI | [Senior Software Engineer - ML Infrastructure](https://job-boards.greenhouse.io/latitude/jobs/8239957) | Pittsburgh, PA, Palo Alto, CA, Detroit, MI | 2026-10-21 |
 
 ## Data and infrastructure
 
 | Company | Role | Where | Posted |
 | --- | --- | --- | --- |
+| Anduril Industries | [Software Engineer- Infrastructure](https://boards.greenhouse.io/andurilindustries/jobs/5274647007?gh_jid=5274647007) | Waltham, Massachusetts, United States | 2026-10-24 |
+| Anduril Industries | [Senior Software Engineer- Infrastructure](https://boards.greenhouse.io/andurilindustries/jobs/5274646007?gh_jid=5274646007) | Broomfield, Colorado, United States | 2026-10-24 |
+| Clera | [Founding DevOps Engineer](https://jobs.ashbyhq.com/clera/0deaa430-133d-46f3-91b8-a5c1597b3366) | San Francisco | 2026-10-24 |
 | Glean | [Senior Site Reliability Engineer](https://job-boards.greenhouse.io/gleanwork/jobs/4747393005) | Mountain View, CA | 2026-10-23 |
 | AXS | [SVP - Data Engineering, Data Science & Analytics](https://job-boards.greenhouse.io/axs/jobs/8913084002) | San Francisco, CA | 2026-10-23 |
 | Benchling | [Software Engineer, Cloud Infrastructure](https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0) | San Francisco, CA | 2026-10-23 |
@@ -64,15 +59,12 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | ibotta | [Data Engineer](https://jobs.ashbyhq.com/ibotta/41d60bfd-7dff-4ad5-afad-a354e8bbcd58) | Hybrid - Denver | 2026-10-23 |
 | The Voleon Group | [Senior Software Engineer, Data Infrastructure](https://jobs.ashbyhq.com/voleon/06b71069-99ef-44d4-a890-b47584f35c0d) | Remote, United States; New York City, NY +1 | 2026-10-23 |
 | WPP Media | [Site Reliability Engineer](https://job-boards.greenhouse.io/wppmedia/jobs/5462207008) | Los Angeles, United States; San Francisco, United States | 2026-10-23 |
+| Apptronik | [Senior Site Reliability Engineer](https://boards.greenhouse.io/apptronik/jobs/6233158004?gh_jid=6233158004) | Austin, TX | 2026-10-23 |
 | Baseten | [Product Platform: Backend Engineer](https://jobs.ashbyhq.com/baseten/26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4) | San Francisco; New York +1 | 2026-10-22 |
 | Baseten | [Software Engineer - Partner Platform](https://jobs.ashbyhq.com/baseten/08bededd-d362-453e-b014-384a2003cbf1) | San Francisco; New York +1 | 2026-10-22 |
 | OpenAI | [Software Engineer, Identity Infrastructure](https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db) | San Francisco; New York City +1 | 2026-10-22 |
 | ATOMS | [Senior Software Engineer - Transport Infrastructure](https://job-boards.greenhouse.io/cssmerge/jobs/8909092002) | San Francisco, CA | 2026-10-22 |
 | Authentic | [Sr. Software Engineer - Platform](https://job-boards.greenhouse.io/authenticinsurance/jobs/4429788009) | New York, New York, United States | 2026-10-22 |
-| Sierra | [Software Engineer, Payments Infrastructure](https://jobs.ashbyhq.com/Sierra/50ec6f9a-25f9-44b4-b8cc-50c897e698b3) | San Francisco, CA | 2026-10-22 |
-| Vital Lyfe | [Software Engineer, Backend & Data](https://jobs.ashbyhq.com/vital-lyfe/a6849d83-933c-4105-8ac6-030e208f163d) | Los Angeles - Greater Area | 2026-10-21 |
-| TRM Labs | [Senior Software Engineer, Data Infrastructure (RDBMS) (LATAM)](https://jobs.ashbyhq.com/trm-labs/bf05e1f6-17e2-4639-ae9c-9afe0199a028) | United States (remote) | 2026-10-21 |
-| ATOMS | [Senior Software Engineer - Cloud & Platform Security](https://job-boards.greenhouse.io/cssmerge/jobs/8907589002) | San Francisco, CA | 2026-10-21 |
 
 ## Frontend and mobile
 
@@ -82,7 +74,6 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | Glean | [Software Engineer, Native Mobile](https://job-boards.greenhouse.io/gleanwork/jobs/4746685005) | San Francisco Bay Area | 2026-10-23 |
 | Abby Care | [Senior Mobile Engineer (React Native)](https://jobs.ashbyhq.com/abby-care/7bde3315-b4b2-4d64-bdcd-8744df55dd12) | San Francisco | 2026-10-22 |
 | GRVTY | [Frontend Software Engineer](https://job-boards.greenhouse.io/grvty/jobs/4464126009) | Laurel, Maryland, United States; San Antonio, Texas, United States | 2026-10-22 |
-| Normal Computing | [Compiler Frontend Engineer](https://jobs.ashbyhq.com/normalcomputing/ca0beabb-b825-4285-a292-3b8d0db44338) | Mountain View | 2026-10-22 |
 
 ## Backend and full stack
 
@@ -91,7 +82,7 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | Mercury | [Senior Software Engineer - Cards](https://job-boards.greenhouse.io/mercury/jobs/6233820004) | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 2026-10-23 |
 | Penumbra Inc | [IT Full Stack Developer](https://jobs.lever.co/penumbrainc/42be630d-d9d1-41fd-b9f7-ffae5a08844c) | Alameda, CA | 2026-10-23 |
 | Appian Corporation | [Senior Software Engineer](https://job-boards.greenhouse.io/appian/jobs/8319156) | McLean, Virginia | 2026-10-23 |
-| Clera | [Software Engineer](https://jobs.ashbyhq.com/clera/fac9e1c7-2454-47c8-a534-f24888014ccb) | San Francisco | 2026-10-23 |
+| OpenAI | [Software Engineer](https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7) | San Francisco | 2026-10-23 |
 | ALTEN Technology USA | [Embedded Software Engineer](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5273967007) | Newark, New Jersey, United States | 2026-10-23 |
 | Snowflake | [Software Engineer](https://jobs.ashbyhq.com/snowflake/e56587dc-dc46-43e5-a93e-94d479fdb754) | US-WA-Bellevue | 2026-10-23 |
 | Verkada | [Senior Backend Engineer - Access Control](https://job-boards.greenhouse.io/verkada/jobs/5273882007) | San Mateo, CA United States | 2026-10-23 |
@@ -103,11 +94,10 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | Pogo Technologies, Inc. | [Full Stack Engineer](https://jobs.ashbyhq.com/joinpogo/908bfe99-a679-4a4f-a49b-9cd44441be04) | United States/Canada (remote) | 2026-10-23 |
 | Glean | [Software Engineer](https://job-boards.greenhouse.io/gleanwork/jobs/4746910005) | Mountain View, CA | 2026-10-23 |
 | Veeva Systems | [Software Engineer in Test](https://jobs.lever.co/veeva/fc5343d1-f637-4729-9ecb-aeb963619e01) | North Carolina - Raleigh (remote) | 2026-10-22 |
+| Veeva Systems | [Software Engineer in Test](https://jobs.lever.co/veeva/0d88dc70-1023-4ee5-a7fe-67eb0b5cb848) | Massachusetts - Boston (remote) | 2026-10-22 |
 | Embedding VC | [Backend Software Engineer](https://jobs.ashbyhq.com/embedding-vc/466a1acf-3ca1-4052-9309-ebfde1ac1f8c) | Palo Alto, CA | 2026-10-22 |
 | Match Group | [Senior Software Engineer, Backend (Match Group Americas LLC, West Hollywood, CA)](https://jobs.lever.co/matchgroup/d5a1e56b-2d09-4178-a9c7-86d4bf0b31f7) | Los Angeles, California | 2026-10-22 |
 | ClickHouse | [Full Stack Software Engineer, Support Operations](https://jobs.ashbyhq.com/clickhouse/40a07d4e-3b7e-49c0-afd4-2f4dff005d1a) | United States; Denver +5 (remote) | 2026-10-22 |
-| Affirm | [Senior Software Engineer, Backend (Workload Safety)](https://job-boards.greenhouse.io/affirm/jobs/8017284003) | Remote US | 2026-10-21 |
-| Clera | [Full-Stack Software Engineer, Design](https://jobs.ashbyhq.com/clera/981f8150-4e48-4261-bfdf-5b8516f55d42) | San Francisco | 2026-10-21 |
 
 ---
 
