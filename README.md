@@ -1,6 +1,6 @@
 # Engineering roles posted in the last few days
 
-89 US software engineering roles, posted in the last 3 days, from companies' own job boards. Updated October 29, 2026.
+85 US software engineering roles, posted in the last 3 days, from companies' own job boards. Updated October 30, 2026.
 
 Every link goes to the company's own posting. We don't sit in between. The list is gathered automatically from public job boards, so check the posting before you apply; some will have closed.
 
@@ -10,6 +10,10 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 
 | Company | Role | Where | Posted |
 | --- | --- | --- | --- |
+| Fin | [Forward Deployed Engineer](https://job-boards.greenhouse.io/intercom/jobs/8333679) | Chicago, Illinois | 2026-10-30 |
+| Fin | [Forward Deployed Engineer](https://job-boards.greenhouse.io/intercom/jobs/8333690) | San Francisco, California | 2026-10-30 |
+| Gecko Robotics | [Solutions Engineer / Power](https://jobs.ashbyhq.com/gecko-robotics/7bc54434-0c56-492e-8138-d6861dce933e) | Pittsburgh; New York City | 2026-10-29 |
+| Clera | [Founding Forward Deployed Engineer](https://jobs.ashbyhq.com/clera/e4242131-2c74-408d-acbb-0bfbccf6390a) | San Francisco | 2026-10-29 |
 | Cohere | [Forward Deployed Engineer, Inference](https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09) | United States | 2026-10-28 |
 | Grafana Labs | [Senior Solutions Engineer, Acquisition / West Coast / Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6236201004) | United States (Remote) | 2026-10-28 |
 | Etched | [Forward Deployed Systems Engineer](https://jobs.ashbyhq.com/Etched/37798f2c-d2d8-4911-bd5a-41b0f6f7c238) | San Jose | 2026-10-28 |
@@ -28,21 +32,20 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | Grafana Labs | [Solutions Engineer / PST or EST US / Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004) | United States (Remote) | 2026-10-27 |
 | CrossCountry Consulting | [Forward Deployed Software Engineer (Recent Graduate) - DC Metro](https://jobs.lever.co/crosscountry-consulting/eb6ab6cf-6f93-486f-b4bf-6137bc67feb7) | McLean, VA | 2026-10-27 |
 | CrossCountry Consulting | [Forward Deployed Software Engineer (Recent Graduate) - Chicago](https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769) | Chicago, IL | 2026-10-27 |
-| Verkada | [Federal Solutions Engineer, West Coast](https://job-boards.greenhouse.io/verkada/jobs/5275655007) | San Mateo, CA United States | 2026-10-26 |
-| Pattern | [Deployment Engineer](https://jobs.lever.co/pattern/c436505e-adc2-45ca-83ea-acb772f63e9f) | Lehi, UT, US | 2026-10-26 |
-| Reality Defender | [Solutions Engineer](https://jobs.ashbyhq.com/realitydefender/b5a1d227-daa9-4606-9866-da4df5b7b8dd) | New York City | 2026-10-26 |
-| OpenAI | [Forward Deployed Engineer (FDE) - AI Infra - SF](https://jobs.ashbyhq.com/openai/7472e486-0aa6-4f9d-86da-2105a42b2dce) | San Francisco | 2026-10-26 |
-| Clera | [Senior Solutions Engineer](https://jobs.ashbyhq.com/clera/d54e4338-ceeb-491f-b593-2e1fbab23ce1) | Chicago (remote) | 2026-10-26 |
 
 ## AI and machine learning
 
 | Company | Role | Where | Posted |
 | --- | --- | --- | --- |
+| Tessera Labs | [AI Infrastructure Engineer [Tooling]](https://jobs.ashbyhq.com/tessera-labs/f151b0cf-86d6-4176-b018-d4f9b8d34df2) | Remote in the U.S. | 2026-10-29 |
+| Tessera Labs | [AI Infrastructure Engineer [Senior]](https://jobs.ashbyhq.com/tessera-labs/7bdf25c8-1f54-4077-bafb-08519bab9ebc) | Remote in the U.S. | 2026-10-29 |
+| Robinhood | [Senior Software Engineer, AI Security](https://boards.greenhouse.io/robinhood/jobs/8334429?t=gh_src=&gh_jid=8334429) | Bellevue, WA; Menlo Park, CA | 2026-10-29 |
+| Clera | [Senior ML Engineer, Perception](https://jobs.ashbyhq.com/clera/4f087e1a-0a04-433d-82ae-fc3320e782c8) | San Francisco | 2026-10-29 |
+| Skydio | [Senior Software Engineer, AI Infrastructure Development Platform](https://jobs.ashbyhq.com/skydio/e039f6f5-6136-4a24-8a30-f4a2979d1ac7) | San Mateo, California, United States | 2026-10-29 |
 | LG Ad Solutions | [Senior Software Engineer II, Fullstack (AI)](https://jobs.ashbyhq.com/lgads/459e8c3a-a75a-49d8-ad1e-87fa7faf5f3b) | Denver, CO; New York, NY | 2026-10-28 |
 | Twilio | [Machine Learning Engineer 2](https://job-boards.greenhouse.io/twilio/jobs/8240487) | Remote - US | 2026-10-28 |
 | PMG | [AI & Software Engineering Lead](https://job-boards.greenhouse.io/pmg/jobs/8922079002) | Dallas, TX | 2026-10-28 |
 | Clera | [Founding ML Engineer, Computer Vision (Object Detection)](https://jobs.ashbyhq.com/clera/b638b702-daf6-47d4-8393-4cf11e84991b) | New York (remote) | 2026-10-28 |
-| Shield AI | [Autonomy & Perception Software Engineer (R5911)](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/596dd745-67e3-4a12-becb-7d6480261bf7) | San Diego, California | 2026-10-28 |
 | Defense Unicorns | [Senior AI Software Engineer (RD271)](https://job-boards.greenhouse.io/defenseunicorns/jobs/5277744007) | Remote, United States | 2026-10-27 |
 | Zoox | [Machine Learning Engineer - Vision Foundation Models](https://jobs.lever.co/zoox/06f146c2-25f6-40fd-8393-4f92ce518929) | Foster City, CA; Boston, MA +2 | 2026-10-27 |
 | Commure | [Software Engineer, Applied AI (RCM)](https://jobs.ashbyhq.com/Commure/7e0572ec-fe77-4893-bc33-6d007bbcc5ff) | Mountain View, CA | 2026-10-27 |
@@ -50,33 +53,27 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | Anduril Industries | [Infra Software Engineer, Agentic Runtime](https://boards.greenhouse.io/andurilindustries/jobs/5211164007?gh_jid=5211164007) | Washington, District of Columbia, United States | 2026-10-27 |
 | 42dot | [Sr. Machine Learning Engineer, Autonomy](https://jobs.ashbyhq.com/42dot/97aa7ffc-9d16-468f-b0f6-8fbe3a4f8895) | Sunnyvale, United States | 2026-10-27 |
 | 42dot | [Machine Learning Engineer, Driving Foundation Models](https://jobs.ashbyhq.com/42dot/65bd0f6e-1e77-438f-9c52-5730922f132a) | Sunnyvale, United States | 2026-10-27 |
-| Clera | [Founding Engineer, AI/ML](https://jobs.ashbyhq.com/clera/c270bfd8-939a-411c-8da3-f71b54416edc) | San Francisco | 2026-10-27 |
 | TRM Labs | [Senior Machine Learning Engineer, Knowledge Layer](https://jobs.ashbyhq.com/trm-labs/f906798e-b5da-440b-80a0-639356e72e1d) | United States (remote) | 2026-10-27 |
 | SimpliSafe | [Sr Machine Learning Engineer](https://job-boards.greenhouse.io/simplisafe/jobs/8327367) | Boston, MA | 2026-10-27 |
-| Treeswift | [Machine Learning Engineering Team Lead](https://jobs.ashbyhq.com/treeswift/ec957fe9-0bb1-4445-b702-8e258057bf5b) | New York Office | 2026-10-27 |
-| Addepar | [Sr. Software Engineer - AI Platform](https://job-boards.greenhouse.io/addepar1/jobs/8906230002) | New York, NY | 2026-10-27 |
-| Baseten | [Software Engineer, Storage Systems (Agent Infra)](https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d) | San Francisco; New York | 2026-10-27 |
-| Baseten | [Software Engineer, Networking (Agent Infra)](https://jobs.ashbyhq.com/baseten/d7e9ee32-dee8-459f-9d8a-538d65df51ae) | San Francisco; New York | 2026-10-26 |
-| Affirm | [Senior Software Engineer, Backend (AI Platform)](https://job-boards.greenhouse.io/affirm/jobs/8040267003) | Remote US | 2026-10-26 |
-| Traba | [Senior Software Engineer (Applied AI)](https://jobs.ashbyhq.com/traba/cb8d55a0-09a3-4189-ad48-102a4af8f1f5) | New York City, NY; San Francisco | 2026-10-26 |
-| Traba | [Senior Software Engineer (AI Agents)](https://jobs.ashbyhq.com/traba/d278f088-ae66-4a31-9267-826b4c30841c) | New York City, NY; San Francisco | 2026-10-26 |
-| Vanta | [Senior Software Engineer, AI Developer Experience](https://jobs.ashbyhq.com/vanta/112c82ea-5825-4121-a43f-5e1902bec35c) | Remote U.S. | 2026-10-26 |
-| Hinge Health | [Senior Software Engineer - AI Platform](https://jobs.ashbyhq.com/hinge-health/de8d7cf5-6cd2-45ad-9f0b-a8ff1e102600) | San Francisco-HQ | 2026-10-26 |
-| ID.me | [Software Engineer – Developer Experience & AI Platform](https://job-boards.greenhouse.io/idme/jobs/8039485003) | McLean, Virginia | 2026-10-26 |
 
 ## Data and infrastructure
 
 | Company | Role | Where | Posted |
 | --- | --- | --- | --- |
+| Plaid | [Senior Infrastructure Engineer - Network Infrastructure](https://jobs.ashbyhq.com/plaid/a6324085-a7f8-4acd-9e36-a330a6249c4d) | New York City Office | 2026-10-30 |
+| General Intuition &amp; Medal | [Senior Infrastructure Engineer](https://jobs.ashbyhq.com/generalintuition-medal/8220131f-a49a-4707-8223-dedc17c1d194) | New York City | 2026-10-30 |
+| Relativity Space | [Sr Data & Control Systems Engineer](https://boards.greenhouse.io/relativity/jobs/8924159002?gh_jid=8924159002) | Stennis Space Center, Mississippi, United States | 2026-10-29 |
+| Qumulo | [Customer Success Engineer II (4x10) - Cloud, Data Center, & Storage](https://jobs.ashbyhq.com/qumulo/fefd927b-7328-4425-a1f6-cedad115c3ad) | USA (remote) | 2026-10-29 |
+| mthree Recruiting Portal | [DevOps Engineer/ Production Support Analyst](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4725832006) | USA | 2026-10-29 |
+| 84.51° | [Lead Data Engineer](https://job-boards.greenhouse.io/8451/jobs/8773368002) | Cincinnati, OH; Chicago, IL | 2026-10-29 |
+| Clera | [Platform Engineer, Biotech](https://jobs.ashbyhq.com/clera/db0302f2-721d-42eb-99a6-3ab5bf97868b) | San Francisco | 2026-10-29 |
+| Clera | [Lead Research Engineer, Data Quality](https://jobs.ashbyhq.com/clera/4e2c8976-c6b5-4d91-b335-e7977ba99f0a) | United States | 2026-10-29 |
+| Blitzy | [Senior DevOps Engineer](https://jobs.ashbyhq.com/blitzy/450604af-0678-4a8c-875f-8290a45ba3e3) | Cambridge, MA | 2026-10-29 |
 | OpenAI | [Software Engineer, Traffic Infrastructure](https://jobs.ashbyhq.com/openai/1d386acc-5fe0-44ed-b288-a6b1b891c9a8) | San Francisco | 2026-10-29 |
-| OpenAI | [Network Infrastructure Engineer, Global Network Infra (WAN)](https://jobs.ashbyhq.com/openai/9f7371c4-e306-4a45-a400-aa2843fabd85) | San Francisco | 2026-10-29 |
-| Anthropic | [Senior Field Engineer, Data Center Design and Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5466517008) | Remote-Friendly, United States | 2026-10-29 |
-| Broccoli AI | [Founding Senior Platform Engineer: Support Engineering](https://jobs.ashbyhq.com/broccoli/a10c5891-7359-4f22-bdb1-d9e7fdc70bb2) | Lehi, Utah | 2026-10-28 |
-| AnaVation | [DevOps Engineer](https://jobs.lever.co/anavationllc/eaef3de0-841d-4270-9005-b671ed902fb0) | Chantilly, VA | 2026-10-28 |
+| OpenAI | [Software Engineer, IP Infrastructure](https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b) | San Francisco | 2026-10-29 |
 | Addepar | [Full Stack Software Engineer - Alts & Data Management](https://job-boards.greenhouse.io/addepar1/jobs/8912699002) | New York, NY | 2026-10-28 |
 | Shield AI | [Senior Software Engineer, Frontend Platform (R5790)](https://jobs.lever.co/shieldai/f8b2ffef-ae89-4860-ba6f-b5e59cb6d31e) | San Diego, California; San Mateo, California | 2026-10-28 |
 | Shield AI | [Senior Software Engineer, Frontend Platform (R5790)](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/b5a7b7cd-f553-42ad-8f97-cafb3e74a8b5) | San Diego, California | 2026-10-28 |
-| Celigo | [Data Engineer](https://job-boards.greenhouse.io/celigo/jobs/8331964) | US | 2026-10-28 |
 | Galaxy | [Site Reliability Engineer (Data Centers)](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6237795004) | Afton, Texas | 2026-10-28 |
 | Astera Labs | [Sr. Software Engineer - Manufacturing Data & Test Infrastructure](https://job-boards.greenhouse.io/asteralabs/jobs/4747554005) | San Jose, California, United States | 2026-10-28 |
 | WorldEngine AI | [Software Engineer, Robotics Data](https://jobs.ashbyhq.com/worldengine/b9ee30e6-5c47-44e2-8bd3-64ee76989aab) | SF Bay Area | 2026-10-28 |
@@ -87,38 +84,37 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 
 | Company | Role | Where | Posted |
 | --- | --- | --- | --- |
+| Exa | [Software Engineer, Web Crawling](https://jobs.ashbyhq.com/exa/a755737f-2181-45aa-8f33-f828dd0b0592) | San Francisco, California | 2026-10-29 |
+| Clera | [Senior Android Software Engineer](https://jobs.ashbyhq.com/clera/318634bc-127f-40d8-80b3-6af8c8c14aef) | San Francisco | 2026-10-29 |
 | ClickHouse | [Sr. Frontend Software Engineer - Growth](https://jobs.ashbyhq.com/clickhouse/da6f6da1-eabf-4647-ab1c-6e138b14a6fe) | United States (remote) | 2026-10-27 |
 | ClickHouse | [Sr. Frontend Software Engineer - RBAC & Authorization](https://jobs.ashbyhq.com/clickhouse/91f94db3-1740-4c78-831a-82e76b539748) | United States (remote) | 2026-10-27 |
-| Archy | [Senior Frontend Software Engineer](https://jobs.ashbyhq.com/archy/0761dac4-f95d-440a-b9a6-02bf451a3ab2) | United States (remote) | 2026-10-26 |
-| Relativity Space | [Front-End Software Engineer II](https://boards.greenhouse.io/relativity/jobs/8917327002?gh_jid=8917327002) | Long Beach, California, United States | 2026-10-26 |
-| Toshiba Global Commerce Solutions - External | [Mobile Developer- FLEX/ CONTRACT](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5272973007) | Durham, NC | 2026-10-26 |
 
 ## Backend and full stack
 
 | Company | Role | Where | Posted |
 | --- | --- | --- | --- |
+| Anduril Industries | [Senior Software Engineer, EW](https://boards.greenhouse.io/andurilindustries/jobs/5279976007?gh_jid=5279976007) | Costa Mesa, California, United States | 2026-10-30 |
+| ALTEN Technology USA | [Senior Embedded Software Engineer](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5279962007) | Mountain View, California. | 2026-10-30 |
+| Glydways | [Senior Embedded Software Engineer](https://job-boards.greenhouse.io/glydways/jobs/5279905007) | United States, Remote | 2026-10-29 |
+| Anduril Industries | [Software Engineer, ERP Applications & Development](https://boards.greenhouse.io/andurilindustries/jobs/5279793007?gh_jid=5279793007) | Costa Mesa, California, United States | 2026-10-29 |
+| Captivation Software | [Radio Frequency Software Engineer 1 - C++/Linux/Python/DSP](https://job-boards.greenhouse.io/captivation/jobs/5467652008) | Annapolis Junction, MD | 2026-10-29 |
+| Captivation Software | [Radio Frequency Software Engineer 2 - C++/Linux/Python/DSP](https://job-boards.greenhouse.io/captivation/jobs/5467642008) | Annapolis Junction, MD | 2026-10-29 |
+| Applied Intuition | [Software Engineer- Maps Rendering](https://jobs.ashbyhq.com/applied/88cd29c0-a142-4f7a-b9ea-be557bac9624) | Sunnyvale | 2026-10-29 |
+| Zoox | [Senior Software Engineer, C++ Vehicle Experience](https://jobs.lever.co/zoox/8703109b-1cb5-4e78-999a-7093ca4407e2) | Foster City, CA | 2026-10-29 |
+| Box | [Software Engineer III, Kubernetes](https://job-boards.greenhouse.io/boxinc/jobs/8318475) | Redwood City, CA, United States | 2026-10-29 |
+| Humanoid | [Software Engineer II, Device Security](https://jobs.ashbyhq.com/humanoid/aa72792c-c5d1-4453-bdde-77aa974e87d9) | US, San Diego, CA | 2026-10-29 |
+| Alarm.com | [Software Engineer](https://job-boards.greenhouse.io/alarmcom/jobs/8900284002) | Needham, Massachusetts | 2026-10-29 |
+| Nimble Robotics | [Software Engineer, Nimble Brain](https://job-boards.greenhouse.io/nimblerobotics/jobs/4472953009) | San Francisco, CA | 2026-10-29 |
+| Robinhood | [Senior Software Engineer, Observability](https://boards.greenhouse.io/robinhood/jobs/8265786?t=gh_src=&gh_jid=8265786) | Menlo Park, CA | 2026-10-29 |
+| Clera | [Full-Stack Software Engineer, Design](https://jobs.ashbyhq.com/clera/aa9f1907-f207-4e0f-b87d-8fafe517d175) | San Francisco | 2026-10-29 |
+| Compeer Financial | [Software Engineer](https://job-boards.greenhouse.io/compeerfinancial/jobs/5467096008) | IL-Bloomington, WI-Sun Prairie | 2026-10-29 |
+| Loft Orbital | [Backend Engineer - Oort](https://jobs.lever.co/loftorbital/78ddafc0-4beb-44ef-949b-da6ac90d4fe6) | San Francisco, CA | 2026-10-29 |
 | Pogo Technologies, Inc. | [Full Stack Engineer](https://jobs.ashbyhq.com/joinpogo/6d6cf597-2b17-471f-91f3-02521705b683) | United States/Canada (remote) | 2026-10-29 |
 | Brillio | [FullStack Developer - R01573043](https://jobs.lever.co/brillio-2/57b4a0b7-4d59-4eb3-a301-c18be669a8bc) | Dallas, Texas, United States | 2026-10-29 |
-| OpenAI | [Software Engineer, Infranomics](https://jobs.ashbyhq.com/openai/b6e0d9c6-a5ad-4d27-ad67-fde760e277b6) | San Francisco | 2026-10-29 |
-| Astro Mechanica | [Senior Ground Software Engineer](https://jobs.ashbyhq.com/astro-mechanica/b66d95fa-f4e7-4a17-8da3-59fb977ddebf) | San Francisco | 2026-10-28 |
-| Crusoe | [Senior Software Engineer (DCIE)](https://jobs.ashbyhq.com/Crusoe/a3b40100-cb00-41cb-ac93-fe81bd614c9d) | San Francisco, CA - US | 2026-10-28 |
-| Applied Intuition | [Software Engineer (Autonomy Tools - Sensor Sim)](https://jobs.ashbyhq.com/applied/2f3f027d-9f9e-4469-955b-229b04db1141) | Sunnyvale | 2026-10-28 |
-| Triumph | [Senior Software Engineer, Developer Tooling](https://jobs.ashbyhq.com/triumph-arcade/ccd9ed67-042c-4cd6-92c0-0a5761da7ca2) | San Francisco HQ | 2026-10-28 |
-| Shield AI | [Software Engineer II, Autonomy Behaviors (R5202)](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6d47a056-8e71-4ffc-80d1-2ac8206325f1) | Boston, Massachusetts | 2026-10-28 |
-| Verkada | [Senior Backend Engineer](https://job-boards.greenhouse.io/verkada/jobs/5278670007) | San Mateo, CA United States | 2026-10-28 |
-| Alarm.com | [Software Engineer II](https://job-boards.greenhouse.io/alarmcom/jobs/8917790002) | Tysons, Virginia | 2026-10-28 |
-| Robinhood | [Senior Software Engineer, Capacity & Efficiency](https://boards.greenhouse.io/robinhood/jobs/8331571?t=gh_src=&gh_jid=8331571) | Bellevue, WA | 2026-10-28 |
-| Penn Interactive | [Senior Software Engineer, Accounts](https://job-boards.greenhouse.io/penninteractive/jobs/6237561004) | Remote, United States | 2026-10-28 |
-| Glean | [Software Engineer, University Grad](https://job-boards.greenhouse.io/gleanwork/jobs/4748567005) | Mountain View, CA | 2026-10-28 |
 | Clera | [Full-Stack Software Engineer, Reinforcement Learning](https://jobs.ashbyhq.com/clera/e8f167df-1dcb-408d-b9bd-4110c71e19c6) | San Francisco | 2026-10-28 |
-| Anduril Industries | [Embedded Software Engineer, Manufacturing Test, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5278217007?gh_jid=5278217007) | Ashville, Ohio, United States | 2026-10-28 |
-| Flexport | [Software Engineer II, Autonomous Freight Technology](https://job-boards.greenhouse.io/flexport/jobs/8326088) | Bellevue, Washington, United States | 2026-10-28 |
-| Anduril Industries | [Software Engineer, Space Special Programs](https://boards.greenhouse.io/andurilindustries/jobs/5278136007?gh_jid=5278136007) | Chantilly, Virginia, United States; Herndon, Virginia, United States | 2026-10-28 |
-| Shield AI | [Senior Safety-Critical Software Engineer (R5788)](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0d443a68-cd2b-4a8c-9a39-54776be15cef) | San Diego, California | 2026-10-28 |
 | PlayStation Global | [Full Stack Software Engineer II (Contract Role)](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6199055004) | United States, Madison, WI | 2026-10-27 |
 | Mixpanel | [Software Engineer, Fullstack](https://job-boards.greenhouse.io/mixpanel/jobs/8157627) | San Francisco, US (Hybrid) | 2026-10-27 |
 | Agile Defense | [Full-Stack Software Engineer](https://jobs.lever.co/agile-defense/f73d0824-7fa2-4408-84f3-29ba715261ee) | Washington, D.C. | 2026-10-27 |
-| Xcimer Energy | [Control Systems Engineer II - Applied Science](https://jobs.lever.co/xcimer/d7cba273-e69c-4134-b136-e5e9f729f92f) | Denver, CO | 2026-10-26 |
 
 ---
 
