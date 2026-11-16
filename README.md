@@ -1,6 +1,6 @@
 # Engineering roles posted in the last few days
 
-75 US software engineering roles, posted in the last 3 days, from companies' own job boards. Updated November 15, 2026.
+62 US software engineering roles, posted in the last 3 days, from companies' own job boards. Updated November 16, 2026.
 
 Every link goes to the company's own posting. We don't sit in between. The list is gathered automatically from public job boards, so check the posting before you apply; some will have closed.
 
@@ -10,27 +10,22 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 
 | Company | Role | Where | Posted |
 | --- | --- | --- | --- |
+| Goaly | [Founding Forward Deployed Engineer (FDE)](https://jobs.ashbyhq.com/goaly/ab5ced25-f374-47f4-910e-d9e0bb9f1616) | Palo Alto, CA, USA | 2026-11-16 |
+| PointOne | [Solutions Engineer](https://jobs.ashbyhq.com/PointOne/ead81d8b-5d51-4d1e-bfe5-63165ad2870d) | New York City | 2026-11-16 |
+| Clera | [Forward Deployed Engineer](https://jobs.ashbyhq.com/Clera/75761a3d-6df6-4cbc-ad13-0fa127db9cad) | New York (remote) | 2026-11-15 |
 | Clera | [Founding Forward Deployed Engineer](https://jobs.ashbyhq.com/Clera/77bc1000-c7d9-4ebc-9047-f458e0d532ca) | New York (remote) | 2026-11-14 |
 | Labelbox | [Forward Deployed Engineer, Enterprise Accounts](https://job-boards.greenhouse.io/labelbox/jobs/5294769007) | San Francisco Bay Area | 2026-11-13 |
-| Clera | [Founding Forward Deployed Engineer](https://jobs.ashbyhq.com/Clera/28fb6c89-2b0a-480d-b0ef-f6e4f6724db0) | San Francisco | 2026-11-13 |
 | Tessera Labs | [Data Forward Deployed Engineer – Applied Data & ML Engineering](https://jobs.ashbyhq.com/tessera-labs/32c01421-81d7-45a2-bd27-b7e49a167cce) | Remote in the U.S. | 2026-11-13 |
-| Elm AI | [Forward-Deployed Product Engineer](https://news.ycombinator.com/item?id=50481529) | New York; London (REMOTE US/Europe considered) | 2026-11-13 |
-| Base Power | [Deployment Engineer (Field Operations)](https://jobs.ashbyhq.com/base-power/61564fba-61a0-4fe3-a71d-1c3325514e35) | Austin, TX | 2026-11-12 |
-| Natera | [Sr. Forward Deployed Data Engineer](https://job-boards.greenhouse.io/natera/jobs/6255111004) | US Remote | 2026-11-12 |
-| Provectus | [Senior Forward Deployed Engineer (GenAI, AWS)](https://jobs.lever.co/provectus/00746a9c-f351-4e14-9ce2-0e505179ff14) | New York; Connecticut +2 | 2026-11-12 |
-| Grafana Labs | [Senior Solutions Engineer, Growth / Mid Atlantic or Southeast / Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6239639004) | United States (Remote) | 2026-11-12 |
-| AHEAD | [Senior Client Solutions Engineer](https://jobs.lever.co/thinkahead/54eb8350-96c3-4d80-8427-a95345fdcc5d) | Milwaukee, Wisconsin | 2026-11-12 |
-| OpenGov | [AI Solutions Engineer, GTM](https://jobs.ashbyhq.com/opengov/5648a8f3-a6f6-41fa-8334-51507d10fdbc) | US; Illinois +1 | 2026-11-12 |
-| Tenet3 | [Solutions Engineer (Cameo)- WPAFB](https://job-boards.greenhouse.io/tenet3/jobs/8936663002) | Dayton, Ohio | 2026-11-12 |
-| Tenet3 | [Solutions Engineer (Onsite)](https://job-boards.greenhouse.io/tenet3/jobs/8936677002) | Tullahoma, Tennessee, United States | 2026-11-12 |
 
 ## AI and machine learning
 
 | Company | Role | Where | Posted |
 | --- | --- | --- | --- |
+| Tutor Intelligence | [AI Engineer – Manufacturing & Production](https://jobs.lever.co/tutorintelligence/f018d281-4e94-411d-ae19-4d6141c09bde) | Watertown, MA | 2026-11-16 |
+| Clera | [Mid-Level AI Engineer](https://jobs.ashbyhq.com/Clera/41abd2dc-cca2-4369-8e13-44f40c0cb9ac) | San Francisco | 2026-11-15 |
+| Clera | [Founding Applied AI Engineer](https://jobs.ashbyhq.com/Clera/321b13c0-4622-4ca3-ba2d-0d696d0f13fc) | San Francisco | 2026-11-15 |
 | Mirage | [Software Engineer, AI Developer Platform](https://jobs.ashbyhq.com/mirage/894f89d9-8687-462f-8040-9ac535214885) | Union Square, New York City | 2026-11-14 |
 | Mirage | [Software Engineer, Agents](https://jobs.ashbyhq.com/mirage/e3ea3be5-779b-4488-813b-7debc6996c45) | Union Square, New York City | 2026-11-14 |
-| Clera | [Mid-Level Machine Learning Engineer](https://jobs.ashbyhq.com/Clera/e43d448b-9a86-4b2e-998d-a0c84b55ecae) | San Francisco, United States | 2026-11-14 |
 | OKX | [Sr. Software Engineer, Machine Learning & Data Infrastructure](https://job-boards.greenhouse.io/okx/jobs/8187582003) | San Jose, California, United States | 2026-11-14 |
 | Clay | [Machine Learning Engineer](https://jobs.ashbyhq.com/claylabs/f8d2a754-8ac4-4ba8-9c36-ed56184132a7) | San Francisco | 2026-11-14 |
 | TensorWave | [ML Performance Engineer](https://jobs.ashbyhq.com/TensorWave/e0ca2ee5-4419-4e7f-b7d6-e90996970809) | Las Vegas, Nevada | 2026-11-13 |
@@ -38,18 +33,13 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | EvolutionIQ | [Senior Software Engineer (Medhub / AI Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/6261794004) | New York, NY or Remote | 2026-11-13 |
 | 42dot | [Machine Learning & Data Engineer, Vehicle Modeling](https://jobs.ashbyhq.com/42dot/d118c92f-1378-404a-a98f-058948606d28) | Sunnyvale, United States | 2026-11-13 |
 | Socure | [Senior Software Engineer – Backend Platforms and Agentic & ML Systems](https://jobs.ashbyhq.com/socure/382aacca-5f17-41a9-961e-6f89982058fe) | Hub - San Francisco; Hub - New York +1 | 2026-11-13 |
-| Empire State Realty Trust | [Applied AI Engineer](https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267) | New York, New York, United States | 2026-11-12 |
-| DoorDash USA | [Senior Software Engineer, Machine Learning Platform - Serving (US)](https://job-boards.greenhouse.io/doordashusa/jobs/8384127) | San Francisco, CA; Sunnyvale, CA +1 | 2026-11-12 |
-| Anduril Industries | [Software Engineer, AI](https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007) | Costa Mesa, California, United States | 2026-11-12 |
-| Commure | [Software Engineer, Claims & AI Billing](https://jobs.ashbyhq.com/Commure/3380135f-ab20-44a4-b73f-8378ed40e1be) | Mountain View, CA | 2026-11-12 |
-| Clera | [Senior ML Engineer, Perception](https://jobs.ashbyhq.com/Clera/eb9d254a-be5d-4389-9475-69630e1a2375) | San Francisco | 2026-11-12 |
-| Affirm | [Senior Software Engineer, Backend (ML Training and Serving)](https://job-boards.greenhouse.io/affirm/jobs/8201463003) | Remote US | 2026-11-12 |
-| Affirm | [Senior Software Engineer, Backend (ML Feature Platform)](https://job-boards.greenhouse.io/affirm/jobs/8199419003) | Remote US | 2026-11-12 |
 
 ## Data and infrastructure
 
 | Company | Role | Where | Posted |
 | --- | --- | --- | --- |
+| AeroVect | [Senior Data Engineer](https://jobs.ashbyhq.com/AeroVect/ee6dfcdc-e7b9-4e69-aee4-fd72b7926448) | Boston - Remote; New York City - Remote +4 | 2026-11-16 |
+| Cybernetic Labs | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/netic/178a50d3-f3e8-4031-829f-ce6d6f3ed245) | San Francisco | 2026-11-15 |
 | Early-stage Startup | [Software Engineer & Data Analyst](https://news.ycombinator.com/item?id=50500910) | REMOTE (US & US Citizen) | 2026-11-14 |
 | Lambda | [Software Engineer - Data Center Tooling](https://jobs.ashbyhq.com/Lambda/08addfcf-1466-4bea-a72e-07fb5b29fb97) | San Francisco Office (Fremont St); San Jose Office (First St) | 2026-11-14 |
 | Clera | [Platform Engineer, Kubernetes](https://jobs.ashbyhq.com/Clera/dd57a8f6-ca07-43cc-8191-5ebc413d810e) | San Francisco | 2026-11-14 |
@@ -63,9 +53,6 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | TRM Labs | [Senior Infrastructure Engineer](https://jobs.ashbyhq.com/trm-labs/223d83e0-50d4-4d96-b9d9-dd0dbf4cc3b0) | San Francisco, California | 2026-11-13 |
 | CMTelematics | [Software Engineer I, Cloud](https://job-boards.greenhouse.io/cmt/jobs/8385978) | Cambridge, MA | 2026-11-13 |
 | Anduril Industries | [Materials Engineer, Design Allowables & Materials Data](https://boards.greenhouse.io/andurilindustries/jobs/5292823007?gh_jid=5292823007) | Costa Mesa, California, United States | 2026-11-13 |
-| ATOMS | [Senior Software Engineer - Transport Infrastructure](https://job-boards.greenhouse.io/cssmerge/jobs/8940528002) | San Francisco, CA | 2026-11-12 |
-| Ditto | [Senior Software Engineer, Data Sync](https://jobs.ashbyhq.com/ditto/32a73ba0-9e46-4871-bea8-d4ceab39ba88) | Remote (Atlanta, Washington DC, San Francisco, | 2026-11-12 |
-| Rain | [Data Platform Engineer](https://jobs.ashbyhq.com/rain/5074d899-f321-4eb2-be3a-f33f849f98a2) | New York, NY | 2026-11-12 |
 
 ## Frontend and mobile
 
@@ -75,12 +62,17 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | Clera | [Senior Android Software Engineer](https://jobs.ashbyhq.com/Clera/3310812a-d096-4659-8d2a-ca2618f28749) | San Francisco | 2026-11-13 |
 | TextNow, Inc. | [Mobile Core Engineer, Carrier](https://job-boards.greenhouse.io/textnowinc/jobs/4504535009) | United States - Hybrid | 2026-11-13 |
 | *Confidential Healthcare AI Startup | [Senior Full Stack Engineer (Frontend-Leaning)](https://news.ycombinator.com/item?id=50484305) | NYC | 2026-11-13 |
-| The Trade Desk | [Senior Front-End Engineer - Front-End Fundamentals](https://job-boards.greenhouse.io/thetradedesk/jobs/5293762007) | Chicago; Denver +3 | 2026-11-12 |
 
 ## Backend and full stack
 
 | Company | Role | Where | Posted |
 | --- | --- | --- | --- |
+| Rover | [Senior Software Engineer, Discovery](https://jobs.lever.co/rover/1cafabc9-403e-40b3-a85b-c068f4c023de) | Seattle | 2026-11-16 |
+| AeroVect | [Senior Backend Engineer](https://jobs.ashbyhq.com/AeroVect/c8437753-a85c-45c8-973c-8e7f1897423f) | Boston - Remote; New York City - Remote +3 | 2026-11-16 |
+| ClickHouse | [Sr. Software Engineer - Enterprise Features & Orchestration](https://jobs.ashbyhq.com/clickhouse/56992f29-17a5-4150-b50b-7a72206c2af6) | Europe or US (remote) | 2026-11-16 |
+| SpaceXSI | [Software Engineer, Super Intelligence](https://job-boards.greenhouse.io/xai/jobs/5295932007) | Palo Alto, CA | 2026-11-16 |
+| Cybernetic Labs | [Software Engineer, Product](https://jobs.ashbyhq.com/netic/2ae2cae2-03cb-4bc7-986a-a93de10f46df) | San Francisco | 2026-11-15 |
+| New Product | [Full Stack Engineer (mostly backend + API)](https://news.ycombinator.com/item?id=50508598) | Meet In The Bay Area | 2026-11-15 |
 | Mirage | [Software Engineer, 3D Rendering](https://jobs.ashbyhq.com/mirage/e1da4a65-5b18-4a9b-873e-5b261a350104) | Union Square, New York City | 2026-11-14 |
 | Mirage | [Software Engineer, Backend](https://jobs.ashbyhq.com/mirage/5de29162-c5ca-41ad-b8fa-e4bfa8a2b145) | Union Square, New York City | 2026-11-14 |
 | Clera | [Founding Backend Engineer](https://jobs.ashbyhq.com/Clera/37ee14c8-272b-4f9e-9958-981429d7aef2) | San Francisco | 2026-11-14 |
@@ -100,11 +92,6 @@ A fresh posting has fewer applicants ahead of you. If you've been sending applic
 | Clera | [Product Engineer (Software Engineer)](https://jobs.ashbyhq.com/Clera/eb3c7369-7c47-4654-a151-8434430f0f38) | San Francisco | 2026-11-13 |
 | Pariveda Solutions | [Senior Software Engineer](https://jobs.ashbyhq.com/pariveda/2160feec-fefc-473b-b6d7-73a54aa8ef2c) | Philadelphia | 2026-11-13 |
 | Gamechanger | [Software Engineer, Ads](https://jobs.ashbyhq.com/gamechanger/4b9837dc-85c5-4b16-a07d-bd8c6f8be246) | GameChanger Remote - US | 2026-11-13 |
-| Alertus Technologies | [Lead Backend Engineer](https://jobs.lever.co/alertus/fe72a57a-3164-43c7-a2e9-5140ed4993a4) | Baltimore, MD | 2026-11-13 |
-| AEG Worldwide | [Lead Software Engineer - Fullstack](https://job-boards.greenhouse.io/aegworldwide/jobs/8940583002) | Los Angeles, CA | 2026-11-12 |
-| Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US | 2026-11-12 |
-| Gecko Robotics | [Full Stack Software Engineer, Robotics](https://jobs.ashbyhq.com/gecko-robotics/e36468fe-2e54-4269-ad7e-c772fa9fa3a0) | Pittsburgh | 2026-11-12 |
-| Patreon | [Software Engineer, Backend (Product Engineering)](https://jobs.ashbyhq.com/patreon/9ab71088-7bd6-4742-9232-4c0345db6081) | San Francisco | 2026-11-12 |
 
 ---
 
